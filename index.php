@@ -1,5 +1,6 @@
 <?php
 
-echo "Testando <strong>Git</strong>"
+echo "Testando <strong>Git</strong>";
+echo "Consegui!";
 
 ?>
